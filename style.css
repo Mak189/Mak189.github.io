@@ -1,0 +1,124 @@
+html
+{
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+#intro_name
+{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+#name_title
+{
+    text-align: center;
+    font-size: 25px;
+}
+
+#discord_button
+{
+    border-radius: 10px;
+    text-align: center;
+}
+
+#steam_button
+{
+    border-radius: 10px;
+    text-align: center;
+}
+
+#itch_button
+{
+    border-radius: 10px;
+    text-align: center;
+}
+
+#buttons_img_container
+{
+    text-align: center;
+}
+
+a 
+{
+    text-decoration: none;
+}
+
+#paragraph1_mainpage
+{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+
+#clickonthesections
+{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 30px;
+}
+
+#selections_img_container 
+{
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+#navbar
+{
+    margin-top: 30px;
+}
+
+#navbar_programming
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+#navbar_home
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+#navbar_mapping
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+#navbar_contact
+{
+    font-size: 25px;
+    margin-left: 70px;
+}
+
+#navbar_text
+{
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+#cyber_int_title
+{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.stacked-images {
+    display: flex;
+    flex-direction: column;
+    align-items:start;
+    gap: 12px;
+    margin-left: 300px;
+}
