@@ -115,10 +115,29 @@ a
     margin-top: 50px;
 }
 
-.stacked-images {
+#content-container
+{
     display: flex;
-    flex-direction: column;
-    align-items:start;
-    gap: 12px;
-    margin-left: 300px;
+    align-items: flex-start;
+    gap: 20px;
+    justify-content: center;
+}
+
+#stacked-images
+{
+    display: flex;
+    gap: 8px;
+    flex-direction: column; 
+}
+
+#stacked_text
+{
+    max-width: 400px;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#c_int_p1
+{
+    margin-top: 40px;
 }
